@@ -17,7 +17,7 @@ const Hero = () => {
           <div className='space-y-20'>
             <div className='flex flex-col gap-y-12 max-lg:items-center flex-1 max-lg:px-4 '>
               <h2 className='text-3xl max-lg:text-center lg:text-6xl font-bold w-full lg:w-[90%]'>
-                Make remote work
+                Make <br className='hidden lg:block'/> remote work
               </h2>
               <p className='w-full lg:max-w-lg max-lg:text-center max-lg:text-[15px] text-neutral-500 leading-6'>
                 Get your team in sync, no matter your location. Streamline
